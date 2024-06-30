@@ -1,0 +1,14 @@
+{
+  "name": "projeto_pgats_valeria",
+  "version": "1.0.0",
+  "description": "Recuperação da disciplina de Programação",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Silva, Valeria",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.5.2"
+  }
+}
